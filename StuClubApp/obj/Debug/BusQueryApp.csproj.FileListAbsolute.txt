@@ -1,0 +1,3 @@
+F:\公交信息管理系统\BusSystemApp\StuClubApp\obj\Debug\BusQueryApp.csprojResolveAssemblyReference.cache
+F:\公交信息管理系统\BusSystemApp\StuClubApp\obj\Debug\StuClubApp.FrmLogin.resources
+F:\公交信息管理系统\BusSystemApp\StuClubApp\obj\Debug\BusQueryApp.csproj.GenerateResource.Cache
