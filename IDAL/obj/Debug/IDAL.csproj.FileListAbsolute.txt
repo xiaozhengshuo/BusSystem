@@ -1,0 +1,7 @@
+E:\公交信息查询管理系统9\公交信息管理系统\BusSystemApp\IDAL\bin\Debug\IDAL.dll
+E:\公交信息查询管理系统9\公交信息管理系统\BusSystemApp\IDAL\bin\Debug\IDAL.pdb
+E:\公交信息查询管理系统9\公交信息管理系统\BusSystemApp\IDAL\bin\Debug\Models.dll
+E:\公交信息查询管理系统9\公交信息管理系统\BusSystemApp\IDAL\bin\Debug\Models.pdb
+E:\公交信息查询管理系统9\公交信息管理系统\BusSystemApp\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+E:\公交信息查询管理系统9\公交信息管理系统\BusSystemApp\IDAL\obj\Debug\IDAL.dll
+E:\公交信息查询管理系统9\公交信息管理系统\BusSystemApp\IDAL\obj\Debug\IDAL.pdb
